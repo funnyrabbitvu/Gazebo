@@ -1,1 +1,2 @@
-Demo room in Gazebo
+View demo:
+$ gazebo indoor_world.world
