@@ -1,1 +1,1 @@
-# Gazebo
+Demo room in Gazebo
